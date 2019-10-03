@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1070635745793-s69v2d3av6bgcbff66fgmj2uf81mo9vm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1070635745793-s69v2d3av6bgcbff66fgmj2uf81mo9vm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQPFnsP8mv4yhIBfd2-KIMDnNqE0W_fko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1070635745793</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iostestingdemo.FirebaseGoogleSignin</string>
+	<key>PROJECT_ID</key>
+	<string>signin-fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signin-fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1070635745793:ios:f5e7d6bfc39f113e1d3600</string>
+	<key>DATABASE_URL</key>
+	<string>https://signin-fb.firebaseio.com</string>
+</dict>
+</plist>
